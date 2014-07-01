@@ -1,3 +1,3 @@
 Interviews
 ==========Answer files are in the src/interview path. 
-Second question solved using in two ways (HTML5 and JQuery).
+Second question solved in two ways in two different HTML files. (HTML5 and JQuery).
